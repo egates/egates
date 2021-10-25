@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @egates
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning a lot about myself
-- 💞️ I’m looking to collaborate on self-covereign identity
+- 💞️ I’m looking to collaborate on a new job
 - 📫 How to reach me - give me a banana
 
 <!---
